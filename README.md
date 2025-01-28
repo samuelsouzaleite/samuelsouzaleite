@@ -1,5 +1,5 @@
 # 💫 About Me:
-#Oi! Eu sou o Samuel<br><br>🔭 Estou cursando sistemas de informação - 5º período<br>💻 Atualmente tenho praticado bastante front-end<br>🌱 Estudo cursos a parte como desenvolvimento de jogos, power bi, JavaScript<br>📫 Entre contato comigo: contato.samuelsl@gmail.com<br>
+#Oi! Eu sou o Samuel<br><br>🔭 Estou cursando sistemas de informação - 7º período<br>💻 Atualmente tenho praticado bastante front-end<br>🌱 Estudo cursos a parte como desenvolvimento de jogos, power bi, JavaScript<br>📫 Entre contato comigo: contato.samuelsl@gmail.com<br>
 
 
 ## 🌐 Socials:
