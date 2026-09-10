@@ -1,5 +1,5 @@
 # 💫 About Me:
-#Oi! Eu sou o Samuel<br><br>🔭Formado em sistemas de informação - UNESC (2022 a 2025)<br>💻 Atualmente tenho praticado bastante fullstack<br>🌱 Estudo cursos a parte como desenvolvimento de jogos, power bi, JavaScript<br>📫 Entre contato comigo: contato.samuelsl@gmail.com<br>
+#Oi! Eu sou o Samuel<br><br>🔭Formado em sistemas de informação - UNESC (2022 a 2025)<br>💻 Fullstack se especializando em back-end<br>🌱<br>📫 Entre contato comigo: contato.samuelsl@gmail.com<br>
 
 
 ## 🌐 Socials:
